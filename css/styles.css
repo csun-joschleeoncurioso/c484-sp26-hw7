@@ -1,0 +1,60 @@
+:root {
+--baltic-blue: #2f6690ff;
+--cerulean: #3a7ca5ff;
+--alabaster-grey: #d9dcd6ff;
+--yale-blue: #16425bff;
+--sky-blue-light: #81c3d7ff;
+--white: #FFFFFF;
+}
+
+/* Global styles 
+------------------------------------*/
+
+img {
+    width: 256px;
+    height: 256px;
+}
+
+body {
+    background-color: #d9dcd6ff;
+    font-family: "Open Sans";
+    font-weight: 400;
+}
+
+h1, h2, h3, h4 {
+    font-family: "Archivo";
+    font-weight: 700;
+}
+
+h1 {
+    font-size: 50px;
+}
+
+h2 {
+    font-size: 25px;
+}
+header {
+    background-color: #16425bff;
+    color: #d9dcd6ff;
+}
+
+header a {
+    color: #81c3d7ff;
+}
+
+.work-experience {
+    background-color: #d9dcd6ff;
+}
+
+.education {
+    background-color: #d9dcd6ff;
+}
+
+footer {
+    background-color: #2f6690ff;
+    color: #d9dcd6ff;
+}
+
+footer a {
+    color: #16425bff;
+}
